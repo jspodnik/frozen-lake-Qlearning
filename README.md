@@ -20,8 +20,8 @@ Requires Python 3.9+.
 
 ```bash
 # clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/jspodnik/frozen-lake-Qlearning.git
+cd frozen-lake-Qlearning
 
 # (recommended) create a virtual environment
 python -m venv venv
